@@ -1,10 +1,10 @@
-DROP DATABASE BikeSharing_v3;
 
 CREATE DATABASE IF NOT EXISTS BikeSharing
 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
 
-USE BikeSharing;
+-- Upload data with Python script (load_tables)
 
+USE BikeSharing;
 
 -- Create a dimension table for bike types.
 
