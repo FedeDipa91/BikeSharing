@@ -5,5 +5,5 @@ The BikeSharing project is a comprehensive data analysis project developed as pa
 
 ## Contact Information
 
-For inquiries or collaboration opportunities, please reach out to me at [https://www.linkedin.com/in/kimberly-negrette/]. I am excited to connect with fellow data enthusiasts and professionals.
+For inquiries or collaboration opportunities, please reach out to me at [https://www.linkedin.com/in/federico-di-pasquale/]. I am excited to connect with fellow data enthusiasts and professionals.
 
